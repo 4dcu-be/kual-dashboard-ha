@@ -1,0 +1,19 @@
+{
+    "items": [
+    {
+        "name": "Home Assistant",
+        "priority": -999,
+        "exitmenu": false,
+        "refresh": false,
+        "status": false,
+        "action": "./bin/start.sh"
+    }, {
+        "name": "Home Assistant (Debug)",
+        "priority": -998,
+        "exitmenu": false,
+		"refresh": false,
+		"status": false,
+        "action": "./bin/start_once.sh"
+    }
+    ]
+}
