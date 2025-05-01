@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.58062842"
-     inkscape:cx="-648.62686"
-     inkscape:cy="941.80593"
+     inkscape:zoom="0.82113259"
+     inkscape:cx="576.57402"
+     inkscape:cy="690.79594"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -121,179 +121,154 @@
          y="272.6001"
          style="font-weight:bold;font-size:22.57777786px;text-align:start;text-anchor:start;stroke-width:0.26458332"
          id="tspan872-9-8">Outdoor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="80.262497"
+       y="324.80301"
+       id="text870-2-5-2"><tspan
+         sodipodi:role="line"
+         x="80.262497"
+         y="324.80301"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.86666489px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan872-9-8-7">OUT_TEMP</tspan></text>
     <g
-       id="g942"
-       transform="translate(5.2876742,8.8354758)">
-      <text
-         id="text870-2-5-2"
-         y="295.84"
-         x="74.974823"
-         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           id="tspan872-9-8-7"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           y="295.84"
-           x="74.974823"
-           sodipodi:role="line">OUT_TEMP</tspan></text>
-      <text
-         id="text870-2-5-2-7"
-         y="295.06567"
-         x="200.60773"
-         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           id="tspan872-9-8-7-2"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           y="295.06567"
-           x="200.60773"
-           sodipodi:role="line">OUT_HUM</tspan></text>
-    </g>
-    <g
-       id="g948"
-       transform="translate(6.367179,8.8354758)">
+       id="g884">
       <text
          id="text870-2-5-2-5"
-         y="326.21152"
-         x="75.606842"
+         y="319.08691"
+         x="205.65562"
          style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            id="tspan872-9-8-7-4"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           y="326.21152"
-           x="75.606842"
+           y="319.08691"
+           x="205.65562"
            sodipodi:role="line">OUT_PRES</tspan></text>
       <text
+         id="text870-2-5-2-7"
+         y="303.90115"
+         x="205.8954"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan872-9-8-7-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           y="303.90115"
+           x="205.8954"
+           sodipodi:role="line">OUT_HUM</tspan></text>
+      <text
          id="text870-2-5-2-7-3"
-         y="325.43719"
-         x="201.23975"
+         y="334.27267"
+         x="207.60692"
          style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            id="tspan872-9-8-7-2-9"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           y="325.43719"
-           x="201.23975"
+           y="334.27267"
+           x="207.60692"
            sodipodi:role="line">OUT_UV</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="80.025475"
+       y="102.31464"
+       id="text870-2-5-2-52"><tspan
+         sodipodi:role="line"
+         x="80.025475"
+         y="102.31464"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan872-9-8-7-46">R1_TEMP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="205.65839"
+       y="101.54034"
+       id="text870-2-5-2-7-9"><tspan
+         sodipodi:role="line"
+         x="205.65839"
+         y="101.54034"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan872-9-8-7-2-6">R1_HUM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="80.025475"
+       y="157.83716"
+       id="text870-2-5-2-52-3"><tspan
+         sodipodi:role="line"
+         x="80.025475"
+         y="157.83716"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan872-9-8-7-46-6">R2_TEMP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="205.65839"
+       y="157.06284"
+       id="text870-2-5-2-7-9-2"><tspan
+         sodipodi:role="line"
+         x="205.65839"
+         y="157.06284"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan872-9-8-7-2-6-9">R2_HUM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="80.025475"
+       y="214.17635"
+       id="text870-2-5-2-52-2"><tspan
+         sodipodi:role="line"
+         x="80.025475"
+         y="214.17635"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan872-9-8-7-46-1">R3_TEMP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="205.65839"
+       y="213.40202"
+       id="text870-2-5-2-7-9-5"><tspan
+         sodipodi:role="line"
+         x="205.65839"
+         y="213.40202"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan872-9-8-7-2-6-2">R3_HUM</tspan></text>
     <g
-       id="g1116"
-       transform="translate(0,24.341676)">
-      <g
-         transform="translate(5.0506523,-228.97953)"
-         id="g942-6">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="74.974823"
-           y="295.84"
-           id="text870-2-5-2-52"><tspan
-             sodipodi:role="line"
-             x="74.974823"
-             y="295.84"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-             id="tspan872-9-8-7-46">R1_TEMP</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="200.60773"
-           y="295.06567"
-           id="text870-2-5-2-7-9"><tspan
-             sodipodi:role="line"
-             x="200.60773"
-             y="295.06567"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-             id="tspan872-9-8-7-2-6">R1_HUM</tspan></text>
-      </g>
+       id="g913"
+       transform="translate(-69.055297)">
       <text
          id="text870-2-1"
-         y="47.491978"
+         y="73.950325"
          x="82.946877"
          style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            id="tspan872-9-2"
            style="font-weight:bold;font-size:16.93333244px;text-align:start;text-anchor:start;fill:#b3b3b3;stroke-width:0.26458332"
-           y="47.491978"
+           y="73.950325"
            x="82.946877"
            sodipodi:role="line">Living Room</tspan></text>
-    </g>
-    <g
-       id="g1125"
-       transform="translate(0,38.183731)">
-      <g
-         transform="translate(5.0506523,-187.29892)"
-         id="g942-6-8">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="74.974823"
-           y="295.84"
-           id="text870-2-5-2-52-3"><tspan
-             sodipodi:role="line"
-             x="74.974823"
-             y="295.84"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-             id="tspan872-9-8-7-46-6">R2_TEMP</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="200.60773"
-           y="295.06567"
-           id="text870-2-5-2-7-9-2"><tspan
-             sodipodi:role="line"
-             x="200.60773"
-             y="295.06567"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-             id="tspan872-9-8-7-2-6-9">R2_HUM</tspan></text>
-      </g>
       <text
          id="text870-2-1-6"
-         y="90.80558"
-         x="98.805344"
+         y="131.10594"
+         x="82.946877"
          style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            id="tspan872-9-2-6"
            style="font-weight:bold;font-size:16.93333244px;text-align:start;text-anchor:start;fill:#b3b3b3;stroke-width:0.26458332"
-           y="90.80558"
-           x="98.805344"
+           y="131.10594"
+           x="82.946877"
            sodipodi:role="line">Bedroom</tspan></text>
-    </g>
-    <g
-       id="g1134"
-       transform="translate(0,52.916694)">
-      <g
-         transform="translate(5.0506523,-145.6927)"
-         id="g942-6-6">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="74.974823"
-           y="295.84"
-           id="text870-2-5-2-52-2"><tspan
-             sodipodi:role="line"
-             x="74.974823"
-             y="295.84"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-             id="tspan872-9-8-7-46-1">R3_TEMP</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="200.60773"
-           y="295.06567"
-           id="text870-2-5-2-7-9-5"><tspan
-             sodipodi:role="line"
-             x="200.60773"
-             y="295.06567"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-             id="tspan872-9-8-7-2-6-2">R3_HUM</tspan></text>
-      </g>
       <text
          id="text870-2-1-6-8"
-         y="132.41177"
-         x="114.39922"
+         y="187.4451"
+         x="83.657944"
          style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            id="tspan872-9-2-6-2"
            style="font-weight:bold;font-size:16.93333244px;text-align:start;text-anchor:start;fill:#b3b3b3;stroke-width:0.26458332"
-           y="132.41177"
-           x="114.39922"
+           y="187.4451"
+           x="83.657944"
            sodipodi:role="line">Office</tspan></text>
     </g>
   </g>
