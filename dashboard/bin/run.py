@@ -37,8 +37,8 @@ if __name__ == "__main__":
         f"{HA_URL}sensor.sensor_bedroom_humidity",
         f"{HA_URL}sensor.sensor_nursery_temperature",
         f"{HA_URL}sensor.sensor_nursery_humidity",
-        f"{HA_URL}sensor.living_room_sensor_bme680_temperature",
-        f"{HA_URL}sensor.living_room_sensor_bme680_humidity",
+        f"{HA_URL}sensor.upgraded_sensor_bme680_temperature",
+        f"{HA_URL}sensor.upgraded_sensor_bme680_humidity",
         f"{HA_URL}sensor.herenthumidity",
         f"{HA_URL}sensor.herenttemperature",
         f"{HA_URL}sensor.herentpressure",
@@ -47,11 +47,17 @@ if __name__ == "__main__":
     all_data = []
 
     for ha_url in ha_urls:
-        ha_data = get_ha_data(ha_url, HA_TOKEN)
-        all_data.append({
-            'sensor': ha_data['attributes']['friendly_name'],
-            'readout': f"{ha_data['state']} {ha_data['attributes']['unit_of_measurement']}"
-        })
+        try:
+            ha_data = get_ha_data(ha_url, HA_TOKEN)
+            all_data.append({
+                'sensor': ha_data['attributes']['friendly_name'],
+                'readout': f"{ha_data['state']} {ha_data['attributes']['unit_of_measurement']}"
+            })
+        except Exception as _:
+            all_data.append({
+                'sensor': "Failed read",
+                'readout': "Failed Update"
+            })
 
     print(all_data)
 
