@@ -1,3 +1,4 @@
 .idea
 dashboard/svg/tmp.svg
+dashboard/svg/sensor_cache.json
 dashboard/bin/config.py
