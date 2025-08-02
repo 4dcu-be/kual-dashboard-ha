@@ -30,6 +30,11 @@ def fmt_date(date_input):
 def is_today(date_input, fmt="%Y-%m-%d"):
     return date_input == datetime.now().strftime(fmt)
 
+def round_if_float(s):
+    try:
+        return f"{round(float(s), 1):.1f}"
+    except ValueError:
+        return s
 
 if __name__ == "__main__":
     ha_urls = [
@@ -51,9 +56,14 @@ if __name__ == "__main__":
             ha_data = get_ha_data(ha_url, HA_TOKEN)
             all_data.append({
                 'sensor': ha_data['attributes']['friendly_name'],
-                'readout': f"{ha_data['state']} {ha_data['attributes']['unit_of_measurement']}"
+                'readout': f"{round_if_float(ha_data['state'])} {ha_data['attributes']['unit_of_measurement']}"
             })
-        except Exception as _:
+
+            print(ha_data)
+
+        except Exception as e:
+            print(ha_url)
+            print(e)
             all_data.append({
                 'sensor': "Failed read",
                 'readout': "Failed Update"
